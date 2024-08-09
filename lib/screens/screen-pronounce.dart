@@ -1,7 +1,6 @@
 // ignore_for_file: file_names
 
 import 'package:audioplayers/audioplayers.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:voko_app/widgets/vocal.dart';

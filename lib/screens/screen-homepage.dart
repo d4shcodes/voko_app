@@ -16,6 +16,7 @@ class Homepage extends StatelessWidget {
 
     return Scaffold(
       body: SafeArea(
+        bottom: false,
         child: currentWidth < 480
             ? Column(
                 children: [
