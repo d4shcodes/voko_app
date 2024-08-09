@@ -6,7 +6,3 @@ At the foundation of language learning lies the ability to pronounce sounds corr
 
 ## 🛠 Built with Flutter
 Voko is built using Flutter 🛠️, a powerful and versatile framework that enables smooth, cross-platform development. This ensures that the app performs seamlessly on both Android and iOS devices, providing a consistent experience for all users.
-
-## 🎨 Key Features:
-Interactive Learning: Engaging activities that make pronunciation practice enjoyable.
-Visual and Auditory Aids: Supports visual learning with vibrant graphics and auditory reinforcement with clear sound clips.
